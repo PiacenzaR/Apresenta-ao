@@ -85,6 +85,6 @@ Conseguir uma oportunidade na área de tecnologia ou administrativa para:
 ---
 
 ## 📫 Contato
-- Email: seuemail@email.com
-- LinkedIn: (adicione aqui)
-- GitHub: (adicione aqui)
+- Email: renatopiacenza89@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/renato-piacenza-mendes-388697283/)
+- GitHub: (https://github.com/PiacenzaR)
